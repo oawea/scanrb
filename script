@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+wget --quiet "https://github.com/opendns/public-domain-lists/blob/master/opendns-random-domains.txt" && cat opendns-random-domains.txt | grep -o '[a-zA-Z0-9_]*\.[a-z]*' > domains
+rm opendns-random-*
+

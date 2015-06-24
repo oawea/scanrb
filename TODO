@@ -1,0 +1,21 @@
+***IMPORTANT***
+integrate classes into module, to facilitate interfacing
+build bruteforcer
+build portscanner
+fill out undefined methods
+
+FOR ORIGINAL DEV: FIX ALL LAZY PROGRAMMING OUT OF RESPECT FOR OTHERS
+example: @verbosity = $stdin.gets.chomp.to_i
+^^^
+i realize this is awful, but i was trying to throw the whole thing together as quickly as possible
+
+
+***MISC***
+clean README
+separate files into modules
+look into support for inline bashscripting (for instance, nmap -sL [range] to generate hosts)
+
+
+
+CURRENT COLABS
+h3xc0ntr0l

@@ -1,0 +1,9 @@
+GEM
+  specs:
+    net-ssh (2.9.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  net-ssh
